@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RappiPayQuiz</string>
+
+    <!-- Tabs -->
+    <string name="tab_popular">Populares</string>
+    <string name="tab_top_rate">Top</string>
+    <string name="tab_search">Busqueda</string>
+
+    <!-- Extras -->
+    <string name="no_found_elemets">No se encontrarón registros</string>
+
+
+    <string name="menu_search">Buscar</string>
+    <string name="query_hint">Ingresar nombre</string>
+
+
+</resources>

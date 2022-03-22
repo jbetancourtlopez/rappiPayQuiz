@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121e2d</color>
+    <color name="colorPrimaryDark">#E50914</color>
+    <color name="colorAccent">#FFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="placeholder">#293E58</color>
+    <color name="ratingBackground">#293E58</color>
+    <color name="background">@color/colorPrimary</color>
+    <color name="cardBackground">#000000</color>
+    <color name="darkBlue">#17293F</color>
+
+</resources>
